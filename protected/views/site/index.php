@@ -8,6 +8,8 @@ $this->pageTitle=Yii::app()->name;
 
 <h3>I am TNS</h3>
 
+<h3>I am ZMN</h3>
+
 <p>Congratulations! You have successfully created your Yii application.</p>
 
 <p>You may change the content of this page by modifying the following two files:</p>

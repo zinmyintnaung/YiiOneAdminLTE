@@ -13,3 +13,6 @@
   <li>copy bower_components, dist, plugins folder from AdminLTE theme to /themes/adminlte/</li>
   <li>under /protected/config/main.php, just change theme to 'adminlte'</li>
 </ol>
+
+<h3>Tips</h3>
+<p>If themes not loaded fully, open Chrome or Mozilla inspector window trace for wrong pointing directory path.</p>

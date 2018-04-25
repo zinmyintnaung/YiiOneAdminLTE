@@ -1,4 +1,4 @@
-# bizsys
+# YiiOneAdminLTE
 <h2>AdminLTD template integrated and make it ready to use for Yii developer</h2>
 
 <h3>Scenerio</h3>
